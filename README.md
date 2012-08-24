@@ -1,6 +1,6 @@
 android-ivr
 ===========
-
+<code>
 http://java-dtmf.sourceforge.net/
 http://henryranch.net/software/java-dtmf-detector/
 http://developer.android.com/reference/android/media/MediaRecorder.html
@@ -21,3 +21,4 @@ http://developer.android.com/guide/topics/media/mediaplayer.html SAYS: Note: You
 http://stackoverflow.com/questions/11360355/when-stream-voice-call-is-going-on-why-do-other-applications-hear-audio
 http://stackoverflow.com/questions/5493286/android-setvolume-and-setaudiostreamtypeaudiomanager-stream-voice-call
 http://stackoverflow.com/questions/2119060/android-getting-audio-to-play-through-earpiece
+</code>
